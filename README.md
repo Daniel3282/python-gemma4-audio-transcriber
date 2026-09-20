@@ -6,7 +6,9 @@ The main breakthrough of this project is that it eliminates the need for traditi
 
 ✨ Key Features
 
-100% Native AI: Leverages Gemma 4's advanced multimodal capabilities to process audio natively, without relying on complex external speech-to-text dependencies.
+100% Local AI: All audio processing and transcription are performed locally on your computer using Gemma 4 and LiteRT-LM. Your audio does not need to be uploaded to a cloud service or sent to an external transcription API.
+
+Unlimited Transcription: Transcribe as many hours of audio as you want. There are no artificial limits on transcription time, number of files, or number of transcriptions. The only practical limitations are your computer's available storage, memory, and processing power.
 
 Fast and Accurate Multilingual Transcription: Delivers excellent performance and multilingual accuracy, particularly for languages beyond English.
 
@@ -15,6 +17,8 @@ Smart Audio Chunking: Analyzes silence within the audio to automatically split l
 Modern Interface: Features a clean, sleek, and responsive dark-mode UI built with a professional QSS theme.
 
 Asynchronous Processing: Model loading and transcription run in background threads (QThread), keeping the application UI smooth and fully responsive.
+
+Privacy-Friendly: Because transcription happens entirely on your machine, your audio files and transcriptions remain under your control instead of being sent to third-party cloud services.
 
 📦 Installation
 
