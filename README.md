@@ -1,5 +1,7 @@
 🚀 Gemma 4 Audio Transcriber
 
+![Gemma 4 Audio Transcriber](Captura%20de%20tela%202026-09-20%20172602.png)
+
 A modern, lightweight desktop application built with Python and PySide6 for high-precision audio transcription.
 
 The main breakthrough of this project is that it eliminates the need for traditional speech-to-text tools such as Whisper. Instead, it directly harnesses the power of LiteRT-LM and Gemma 4 (2B), taking full advantage of the model's native ability to process and transcribe audio.
